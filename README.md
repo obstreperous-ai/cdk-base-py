@@ -1,4 +1,4 @@
-# cdk-empty-py
+# CDK Base Python
 Template for CDK Python repositories
 
 ## Dev Container
