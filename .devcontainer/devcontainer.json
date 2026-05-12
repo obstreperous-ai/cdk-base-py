@@ -26,6 +26,6 @@
       ]
     }
   },
-  "postCreateCommand": "bash .devcontainer/setup.sh",
+  "postCreateCommand": "npm install --global aws-cdk",
   "remoteUser": "vscode"
 }
